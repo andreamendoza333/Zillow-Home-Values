@@ -6,8 +6,11 @@ I used it to compare average house values during the last 10 years across the co
 
 - I found that LA, Miami, and New York have the highest housing costs
 - States like Selma, Alabama and St. Louis , Missouri had the lowest housing costs
-- immeditaley after the Covid-19 pandemic, in 2020, the avergae change in price increased by about $19,000, but then dropped after 2022 by about $28,593. This sharp increase and sharp decrease indicates that that home values during the Covid-19 pandemic appracited in value but did not stay that way.
+  
+#### The median house prices dropped in year 2012 and rose more steeply between 2020 and 2022. Since the Covid-19 pandemic, housing costs rose dramatically and have not stopped rising.
 
 ![](Screenshot%202025-12-13%20at%209.23.06%E2%80%AFAM.jpg)
+
+#### Immeditaley after the Covid-19 pandemic, in 2020, the avergae delta in price increased by about $19,000, but then dropped after 2022 by about $28,593. This sharp increase and sharp decrease indicates that that home values during the Covid-19 pandemic appracited in value but did not stay that way.
 
 ![](Screenshot%202025-12-13%20at%209.23.36%E2%80%AFAM.png)
