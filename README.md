@@ -1,3 +1,5 @@
+Check out my **ZillowHomeValues_Analysis.ipynb** file for the Python code, and for a deeper analysis of home value prices in the U.S. and Chicago metro area.
+
 # Zillow-Home-Values
 Exploratory Data Analysis of Zillow Home Value Index for U.S. cities, 2000 - 2025.
 This project uses Zillow Home Value Index data from their website: https.
